@@ -377,6 +377,10 @@ predictions = bundle.predict(X)
 print(predictions[:10])
 ```
 
+Skeleton Files:
+https://drive.google.com/open?id=1CUZnBtYwifVXS21yVg62T-vrPVayso5H
+https://drive.google.com/open?id=1tEbuaEqMxAV7dNc4fqu1O4M7mC6CJ50w
+
 ### Reproduce the training
 
 Open the notebooks in order:
