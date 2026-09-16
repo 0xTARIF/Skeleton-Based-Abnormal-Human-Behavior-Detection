@@ -1,0 +1,16 @@
+split,metric,count,target_count,percentage_of_full_dataset,target_percentage,subjects,absolute_percentage_error
+train,TOTAL,15140,15129.8,70.04719164,70,28,0.047191635
+train,Falling Down,1846,1846.6,69.9772555,70,28,0.022744503
+train,Normal Activity,7185,7192.5,69.9270073,70,28,0.072992701
+train,Staggering/Unbalanced Movement,3684,3672.2,70.22493328,70,28,0.224933283
+train,Touch Chest,2425,2418.5,70.18813314,70,28,0.18813314
+validation,TOTAL,4321,4322.8,19.99167206,20,8,0.008327936
+validation,Falling Down,525,527.6,19.90144049,20,8,0.098559515
+validation,Normal Activity,2060,2055,20.0486618,20,8,0.0486618
+validation,Staggering/Unbalanced Movement,1052,1049.2,20.053374,20,8,0.053373999
+validation,Touch Chest,684,691,19.79739508,20,8,0.20260492
+test,TOTAL,2153,2161.4,9.961136301,10,4,0.038863699
+test,Falling Down,267,263.8,10.12130402,10,4,0.121304018
+test,Normal Activity,1030,1027.5,10.0243309,10,4,0.0243309
+test,Staggering/Unbalanced Movement,510,524.6,9.721692718,10,4,0.278307282
+test,Touch Chest,346,345.5,10.01447178,10,4,0.01447178
