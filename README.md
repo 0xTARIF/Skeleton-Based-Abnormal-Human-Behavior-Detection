@@ -456,3 +456,8 @@ The underlying NTU RGB+D dataset remains subject to its original license terms.
 **Built for safety-critical behavior monitoring**
 
 </div>
+## Contributor Update
+
+### Antara
+- Added documentation improvements and project notes.
+- Reviewed repository structure and workflow.
