@@ -27,7 +27,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project detects **medically important abnormal human behaviors** from CCTV footage using
 only **skeleton joint coordinates** — no raw video pixels are needed at inference time.
@@ -41,7 +41,7 @@ A key design goal was **safety-first detection**: in a real hospital or elderly-
 missing a real fall is far more dangerous than raising a false alarm. The models are therefore
 tuned toward **high recall on abnormal events**, even at the cost of some precision.
 
-### 🎯 Target Classes
+### Target Classes
 
 | Class | Description | Why it matters |
 |---|---|---|
