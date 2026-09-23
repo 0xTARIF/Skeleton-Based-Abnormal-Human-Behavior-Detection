@@ -453,7 +453,7 @@ The underlying NTU RGB+D dataset remains subject to its original license terms.
 
 <div align="center">
 
-**Built for safety-critical behavior monitoring**
+**Built for safety critical behavior monitoring**
 
 </div>
 ## Contributor Update
